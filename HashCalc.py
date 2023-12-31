@@ -1,4 +1,6 @@
-# from here: https://gist.github.com/angeligareta/144d9809b9020794a64ec4370452b217
+# credit of this script belongs to Angel Igareta. It is used here with minor modifications:
+# the file: https://gist.github.com/angeligareta/144d9809b9020794a64ec4370452b217
+# the related artcile on medium: https://towardsdatascience.com/removing-duplicate-or-similar-images-in-python-93d447c1c3eb
 
 import imagehash
 from PIL import Image
